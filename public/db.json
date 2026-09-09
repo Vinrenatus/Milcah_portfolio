@@ -1,0 +1,532 @@
+{
+  "profile": {
+    "name": "Milcah Mwangi",
+    "title": "Senior Software Engineer — Fintech Systems & AI Model Evaluation",
+    "tagline": "20 years building mission-critical backend systems for UK banks and fintechs, plus 4+ years of contract AI model evaluation",
+    "email": "mwangimilcah72@gmail.com",
+    "phone": null,
+    "location": "Isleworth, United Kingdom",
+    "availability": "Open to senior backend and AI evaluation roles — fully remote across UK, US, and APAC time zones",
+    "bio": "Software engineer with 20 years building mission-critical backend systems for UK banks and fintechs (OakNorth, Close Brothers, Paragon Banking Group, Secure Trust Bank), progressing from IC to Principal Engineer leading teams of up to 12, then moving into independent consulting and 4+ years of contract AI model evaluation work. Delivered lending platforms processing £150M+ in monthly commercial volume at sub-120ms p99 latency, and scored 1,200+ model outputs at a 95%+ QA acceptance rate across Outlier, Telus, Alignerr, Scale AI, and Appen. Native-level English (C2). Fully remote, self-directed delivery across UK, US, and APAC time zones.",
+    "avatar": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg",
+    "social": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  "skills": [
+    {
+      "name": "Python 3.x",
+      "category": "Languages & Frameworks",
+      "icon": "fa-brands fa-python",
+      "level": 98,
+      "color": "#4B8BBE",
+      "emoji": "🐍"
+    },
+    {
+      "name": "TypeScript / JavaScript",
+      "category": "Languages & Frameworks",
+      "icon": "fa-brands fa-js",
+      "level": 88,
+      "color": "#F7DF1E",
+      "emoji": "⚡"
+    },
+    {
+      "name": "SQL",
+      "category": "Languages & Frameworks",
+      "icon": "fa-solid fa-database",
+      "level": 94,
+      "color": "#336791",
+      "emoji": "🗄️"
+    },
+    {
+      "name": "Java",
+      "category": "Languages & Frameworks",
+      "icon": "fa-brands fa-java",
+      "level": 85,
+      "color": "#E76F00",
+      "emoji": "☕"
+    },
+    {
+      "name": "FastAPI",
+      "category": "Languages & Frameworks",
+      "icon": "fa-solid fa-bolt",
+      "level": 95,
+      "color": "#009688",
+      "emoji": "🚀"
+    },
+    {
+      "name": "React",
+      "category": "Languages & Frameworks",
+      "icon": "fa-brands fa-react",
+      "level": 82,
+      "color": "#61DAFB",
+      "emoji": "⚛️"
+    },
+    {
+      "name": "Spring Boot",
+      "category": "Languages & Frameworks",
+      "icon": "fa-solid fa-leaf",
+      "level": 80,
+      "color": "#6DB33F",
+      "emoji": "🌱"
+    },
+    {
+      "name": "SME Credit Decisioning",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-scale-balanced",
+      "level": 96,
+      "color": "#0EA5E9",
+      "emoji": "🏦"
+    },
+    {
+      "name": "Loan Origination (LOS)",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-file-invoice-dollar",
+      "level": 94,
+      "color": "#3B82F6",
+      "emoji": "📄"
+    },
+    {
+      "name": "Risk Engine Integration",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-shield-halved",
+      "level": 92,
+      "color": "#6366F1",
+      "emoji": "🛡️"
+    },
+    {
+      "name": "KYC/AML Pipeline Automation",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-user-shield",
+      "level": 90,
+      "color": "#8B5CF6",
+      "emoji": "🔐"
+    },
+    {
+      "name": "FCA Regulatory Reporting",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-clipboard-check",
+      "level": 91,
+      "color": "#A855F7",
+      "emoji": "📋"
+    },
+    {
+      "name": "Bacs/CHAPS Settlement",
+      "category": "Financial Systems",
+      "icon": "fa-solid fa-money-bill-transfer",
+      "level": 88,
+      "color": "#EC4899",
+      "emoji": "💷"
+    },
+    {
+      "name": "SFT Prompt–Response Authoring",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-pen-nib",
+      "level": 96,
+      "color": "#8B5CF6",
+      "emoji": "✍️"
+    },
+    {
+      "name": "RLHF Preference Ranking",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-brain",
+      "level": 95,
+      "color": "#7C3AED",
+      "emoji": "🧠"
+    },
+    {
+      "name": "Chain-of-Thought Review",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-diagram-project",
+      "level": 93,
+      "color": "#6366F1",
+      "emoji": "🔗"
+    },
+    {
+      "name": "Rubric Design",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-list-check",
+      "level": 94,
+      "color": "#10B981",
+      "emoji": "📊"
+    },
+    {
+      "name": "Hallucination Detection",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-magnifying-glass",
+      "level": 92,
+      "color": "#F59E0B",
+      "emoji": "🔍"
+    },
+    {
+      "name": "Inter-Annotator Calibration",
+      "category": "LLM Training & Evaluation",
+      "icon": "fa-solid fa-users-gear",
+      "level": 93,
+      "color": "#14B8A6",
+      "emoji": "⚖️"
+    },
+    {
+      "name": "pytest & TDD",
+      "category": "Testing & Code Review",
+      "icon": "fa-solid fa-vial-circle-check",
+      "level": 96,
+      "color": "#0EA5E9",
+      "emoji": "🧪"
+    },
+    {
+      "name": "Pull-Request Governance",
+      "category": "Testing & Code Review",
+      "icon": "fa-solid fa-code-pull-request",
+      "level": 95,
+      "color": "#06B6D4",
+      "emoji": "🔎"
+    },
+    {
+      "name": "API Contract Testing",
+      "category": "Testing & Code Review",
+      "icon": "fa-solid fa-file-signature",
+      "level": 92,
+      "color": "#22D3EE",
+      "emoji": "📝"
+    },
+    {
+      "name": "Static Analysis & PEP 8",
+      "category": "Testing & Code Review",
+      "icon": "fa-solid fa-code",
+      "level": 93,
+      "color": "#38BDF8",
+      "emoji": "✅"
+    },
+    {
+      "name": "Docker",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-brands fa-docker",
+      "level": 92,
+      "color": "#2496ED",
+      "emoji": "🐳"
+    },
+    {
+      "name": "AWS (ECS, Lambda, S3, RDS)",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-brands fa-aws",
+      "level": 91,
+      "color": "#FF9900",
+      "emoji": "☁️"
+    },
+    {
+      "name": "CI/CD (GitHub Actions, Jenkins)",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-solid fa-infinity",
+      "level": 93,
+      "color": "#14B8A6",
+      "emoji": "🔄"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-solid fa-dharmachakra",
+      "level": 82,
+      "color": "#326CE5",
+      "emoji": "☸️"
+    },
+    {
+      "name": "Terraform",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-solid fa-cubes",
+      "level": 80,
+      "color": "#7B42BC",
+      "emoji": "🏗️"
+    },
+    {
+      "name": "Linux",
+      "category": "Infrastructure & DevOps",
+      "icon": "fa-brands fa-linux",
+      "level": 90,
+      "color": "#FCC624",
+      "emoji": "🐧"
+    },
+    {
+      "name": "pandas / NumPy / SciPy",
+      "category": "Data & ML",
+      "icon": "fa-solid fa-table",
+      "level": 92,
+      "color": "#150458",
+      "emoji": "🐼"
+    },
+    {
+      "name": "scikit-learn",
+      "category": "Data & ML",
+      "icon": "fa-solid fa-chart-line",
+      "level": 86,
+      "color": "#F7931E",
+      "emoji": "📈"
+    },
+    {
+      "name": "TensorFlow",
+      "category": "Data & ML",
+      "icon": "fa-solid fa-microchip",
+      "level": 82,
+      "color": "#FF6F00",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Data Pipeline Orchestration",
+      "category": "Data & ML",
+      "icon": "fa-solid fa-sitemap",
+      "level": 90,
+      "color": "#84CC16",
+      "emoji": "🔀"
+    },
+    {
+      "name": "Annotation QA (CVAT, Labelbox)",
+      "category": "Data & ML",
+      "icon": "fa-solid fa-tags",
+      "level": 95,
+      "color": "#22C55E",
+      "emoji": "🏷️"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "CodeSignal",
+      "role": "Senior Software Engineer",
+      "location": "Remote",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "current": true,
+      "description": "Architect and ship production FastAPI microservices powering NLP and AI evaluation workflows for enterprise clients, sustaining high uptime across PostgreSQL-on-AWS backends.",
+      "achievements": [
+        "Architected and shipped production FastAPI microservices powering NLP and AI evaluation workflows for enterprise clients, sustaining high uptime across PostgreSQL-on-AWS backends",
+        "Cut release cycle time from 9 days to 5 by building automated CI/CD pipelines in GitHub Actions, reducing manual deployment effort",
+        "Reduced production regressions by authoring and maintaining a comprehensive pytest suite covering unit, integration, and API contract tests, enforced as a merge gate",
+        "Reviewed pull requests across the engineering team for correctness, PEP 8 compliance, edge-case handling, and test fidelity against ticket specifications",
+        "Deployed containerized annotation-management and dataset-validation tools (Docker, AWS ECS, Lambda, S3) used daily across the organization"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "AWS (ECS, Lambda, S3)",
+        "Docker",
+        "GitHub Actions",
+        "pytest"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Outlier, Telus Digital, Alignerr",
+      "role": "Code & Model Output Evaluator",
+      "location": "Remote",
+      "start_date": "2023-01-01",
+      "end_date": "2025-12-31",
+      "current": false,
+      "description": "Part-time contract evaluation of AI-generated code and model outputs, undertaken alongside full-time employment at CodeSignal.",
+      "achievements": [
+        "Reviewed 300+ AI-generated code responses (Python, JavaScript/TypeScript) for correctness, instruction adherence, security practices, and debugging quality, including chain-of-thought reasoning on algorithms and multi-step technical problems; identified 14 systematic failure patterns adopted into model-retraining criteria",
+        "Designed 45 \"broken-code\" and multi-turn debugging scenarios testing model ability to identify, explain, and fix runtime errors, logic bugs, and performance bottlenecks",
+        "Scored 1,200+ technical responses against structured rubrics, sustaining a 95%+ QA acceptance rate with reproducible written feedback; flagged 60+ tests that passed against incorrect or incomplete solutions"
+      ],
+      "technologies": [
+        "Python",
+        "JavaScript/TypeScript",
+        "SFT",
+        "RLHF Preference Ranking"
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Scale AI, Appen",
+      "role": "Annotation QA Lead & Guideline Author",
+      "location": "Remote",
+      "start_date": "2022-01-01",
+      "end_date": "2024-12-31",
+      "current": false,
+      "description": "Led annotation quality assurance and authored labeling guidelines across large-scale text and image projects.",
+      "achievements": [
+        "Audited 5,000+ annotation records (JSON, CSV, COCO, YOLO) across large-scale text and image labeling projects, enforcing policy-style guidelines on ambiguous and edge-case content",
+        "Improved inter-annotator agreement from 0.72 to 0.86 Cohen's κ through structured weekly calibration sessions for 8–12 reviewers and iterative guideline revisions",
+        "Reduced recurring schema and labeling errors 30% by building Python validation scripts that detect inconsistencies and label drift pre-delivery; authored 10+ decision rules standardising gray-area judgments across the reviewer pool"
+      ],
+      "technologies": [
+        "Python",
+        "JSON",
+        "CSV",
+        "COCO",
+        "YOLO"
+      ]
+    },
+    {
+      "id": 4,
+      "company": "Remotasks, DataAnnotation.tech, Handshake",
+      "role": "AI Trainer & Data Labeler",
+      "location": "Remote",
+      "start_date": "2021-01-01",
+      "end_date": "2022-12-31",
+      "current": false,
+      "description": "Authored SFT prompt–response pairs and evaluation instructions for LLM training, with structured written rationales at volume.",
+      "achievements": [
+        "Created 800+ SFT prompt–response pairs and evaluation instructions for LLM training; assessed outputs for accuracy, hallucination, and task alignment",
+        "Produced structured written rationales for 500+ evaluations with error categorisation, completing high-volume batches within 24–48 hour SLAs"
+      ],
+      "technologies": [
+        "SFT Prompt Engineering",
+        "LLM Evaluation"
+      ]
+    },
+    {
+      "id": 5,
+      "company": "Independent Consultant",
+      "role": "Software Engineering & AI Evaluation",
+      "location": "Remote",
+      "start_date": "2018-08-01",
+      "end_date": "2022-12-31",
+      "current": false,
+      "description": "Independent software engineering and data-pipeline consulting for fintech and research clients, following an 8-year tenure in full-time banking engineering roles.",
+      "achievements": [
+        "Delivered independent software engineering and data-pipeline consulting engagements for fintech and research clients following an 8-year tenure in full-time banking engineering roles",
+        "Built the foundation of a multi-year AI model training and evaluation practice during this period, contracting across Remotasks, DataAnnotation.tech, Handshake, Scale AI, and Appen"
+      ],
+      "technologies": [
+        "Python",
+        "AI Model Training & Evaluation",
+        "Data Pipeline Engineering"
+      ]
+    },
+    {
+      "id": 6,
+      "company": "OakNorth Bank",
+      "role": "Principal Software Engineer",
+      "location": "London, UK",
+      "start_date": "2016-03-01",
+      "end_date": "2018-08-01",
+      "current": false,
+      "description": "Led engineering teams building automated SME credit-decisioning and loan-origination services processing £150M+ in monthly commercial lending.",
+      "achievements": [
+        "Led a team of engineers building automated SME credit-decisioning and loan-origination services processing £150M+ in monthly commercial lending",
+        "Reduced manual underwriting bottlenecks and cut time-to-decision from days to hours by designing event-driven microservices (Python, Kafka, AWS Lambda) for real-time credit-risk scoring",
+        "Led FCA compliance and Open Banking API integrations across core lending services, passing external regulatory audits with zero critical findings",
+        "Mentored mid-level engineers and established code-review standards that reduced post-release hotfixes"
+      ],
+      "technologies": [
+        "Python",
+        "Kafka",
+        "AWS Lambda",
+        "Open Banking APIs"
+      ]
+    },
+    {
+      "id": 7,
+      "company": "Close Brothers Group",
+      "role": "Lead Software Engineer",
+      "location": "London, UK",
+      "start_date": "2013-01-01",
+      "end_date": "2016-02-01",
+      "current": false,
+      "description": "Architected an invoice-finance risk-calculation engine and led a core-banking migration across a team of 12 developers and 3 QAs.",
+      "achievements": [
+        "Architected and delivered an invoice-finance risk-calculation engine processing 40,000+ SME ledger entries daily",
+        "Led a team of 12 developers and 3 QAs through a major core-banking migration with zero unplanned downtime",
+        "Introduced automated regression suites (JUnit, pytest) that reduced UAT defect leakage",
+        "Delivered bespoke regulatory reporting modules ahead of the FCA deadline, working directly with compliance and front-office teams"
+      ],
+      "technologies": [
+        "Python",
+        "Java",
+        "Oracle",
+        "JUnit",
+        "pytest"
+      ]
+    },
+    {
+      "id": 8,
+      "company": "Paragon Banking Group",
+      "role": "Senior Software Engineer",
+      "location": "London, UK",
+      "start_date": "2009-06-01",
+      "end_date": "2012-12-31",
+      "current": false,
+      "description": "Built mortgage-underwriting and AML screening pipelines processing 12,000 buy-to-let applications per month.",
+      "achievements": [
+        "Built and maintained mortgage-underwriting and AML screening pipelines processing 12,000 buy-to-let applications/month, reducing false-positive alerts while preserving regulatory detection rates",
+        "Delivered a fraud-detection rule engine that flagged £4.1M in suspicious applications in its first quarter, earning the company's internal \"Technology Excellence\" award (2011)"
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Tibco"
+      ]
+    },
+    {
+      "id": 9,
+      "company": "Secure Trust Bank",
+      "role": "Software Engineer",
+      "location": "London, UK",
+      "start_date": "2006-07-01",
+      "end_date": "2009-05-01",
+      "current": false,
+      "description": "Developed core-lending and consumer-credit transaction services processing £400M in annual disbursements.",
+      "achievements": [
+        "Developed core-lending and consumer-credit transaction services processing £400M in annual disbursements",
+        "Automated batch reconciliation workflows, cutting the overnight processing window from 5 hours to 1.8 hours"
+      ],
+      "technologies": [
+        "Java",
+        "Python",
+        "Oracle"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Multi-Lingual Sentiment Analysis Platform",
+      "description": "End-to-end multilingual sentiment-analysis platform processing 50K+ documents/day through scalable FastAPI REST APIs, backed by a comprehensive pytest suite covering preprocessing, inference, and API contracts. Workloads are containerized with Docker and deployed on AWS with CloudWatch monitoring and auto-scaling, alongside a React dashboard visualising model outputs for 30+ internal analysts.",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "React",
+        "TensorFlow",
+        "Docker",
+        "AWS"
+      ],
+      "featured": true,
+      "github_url": null,
+      "live_url": null
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "PhD, Computer Science (Part-Time)",
+      "institution": "Brunel University London",
+      "field": "Computer Science",
+      "grade": null,
+      "start_date": "2001-01-01",
+      "end_date": "2005-12-31"
+    },
+    {
+      "id": 2,
+      "degree": "MSc, Computer Science",
+      "institution": "University of Westminster",
+      "field": "Computer Science",
+      "grade": null,
+      "start_date": "1999-01-01",
+      "end_date": "2000-12-31"
+    },
+    {
+      "id": 3,
+      "degree": "BSc, Computer Science",
+      "institution": "University of Westminster",
+      "field": "Computer Science",
+      "grade": null,
+      "start_date": "1995-01-01",
+      "end_date": "1998-12-31"
+    }
+  ],
+  "certifications": [],
+  "contact_messages": []
+}
